@@ -10,9 +10,9 @@ Administrateur **systèmes & réseaux** spécialisé dans les **infrastructures 
 Je m'intéresse particulièrement à :
 
 - l’architecture d’infrastructure
+- la virtualisation
 - la cybersécurité
 - la supervision
-- la virtualisation
 - l'amélioration continue des environnements IT
 
 ---
@@ -33,32 +33,14 @@ Ce site me permet de partager :
 
 # 🛠️ Compétences techniques
 
-### Systèmes
-- Linux (Debian, Ubuntu, RHEL)
-- Windows Server (AD DS, DNS, GPO, PKI)
-
-### Virtualisation
-- VMware vSphere / ESXi
-- Hyper-V
-- Proxmox
-- Docker
-
-### Réseau & sécurité
-- VLAN / routage L2-L3
-- VPN IPsec / SSL
-- segmentation réseau
-- pare-feu Stormshield / Fortinet / OPNsense
-
-### Supervision & sauvegarde
-- Centreon
-- Zabbix
-- SNMP
-- Veeam Backup
-- PRA / PCA
+### - Systèmes (Windows, Linux, AD DS, DNS, DHCP, PKI, RADIUS)
+### - Virtualisation (Esxi, vCenter)
+### - Réseau & sécurité (Cisco, Meraki, Stormshield, Fortinet, OPNsense)
+### - Supervision & sauvegarde (Veeam)
 
 ---
 
-# 🚀 Projets
+# 📚 Projets
 
 ## BESAFE
 
@@ -74,22 +56,11 @@ Technologies utilisées :
 - Nextcloud
 - Vaultwarden
 
-➡️ [Voir la documentation complète](projets/besafe.md)
-
----
-
-# 📚 Articles techniques
-
-*(articles en cours de rédaction)*
-
-- Supervision Centreon
-- VPN Stormshield
-- Active Directory Tiering
-- Déploiement d’une PKI
+➡️ [Voir la documentation complète sur le WIKI](projets/besafe.md)
 
 ---
 
 # 📬 Contact
 
-📧 Email : ilangaussin@gmail.com  
+📧 Email : ilangaussin.pro@gmail.com  
 🐙 GitHub : https://github.com/IlanGAUSSIN
