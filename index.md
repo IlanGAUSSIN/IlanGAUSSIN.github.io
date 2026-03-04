@@ -33,10 +33,10 @@ Ce site me permet de partager :
 
 # 🛠️ Compétences techniques
 
-### - Systèmes (Windows, Linux, AD DS, DNS, DHCP, PKI, RADIUS)
-### - Virtualisation (Esxi, vCenter)
-### - Réseau & sécurité (Cisco, Meraki, Stormshield, Fortinet, OPNsense)
-### - Supervision & sauvegarde (Veeam)
+- Systèmes (Windows, Linux, AD DS, DNS, DHCP, PKI, RADIUS)
+- Virtualisation (Esxi, vCenter)
+- Réseau & sécurité (Cisco, Meraki, Stormshield, Fortinet, OPNsense)
+- Supervision & sauvegarde (Veeam)
 
 ---
 
@@ -56,7 +56,7 @@ Technologies utilisées :
 - Nextcloud
 - Vaultwarden
 
-➡️ [Voir la documentation complète sur le WIKI](projets/besafe.md)
+> [Voir la documentation complète sur le WIKI](projets/besafe.md)
 
 ---
 
