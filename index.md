@@ -1,3 +1,7 @@
+---
+layout: default
+title: Ilan Gaussin
+---
 # Ilan Gaussin
 
 Administrateur systèmes et réseaux spécialisé dans les infrastructures, la sécurité et la virtualisation.
