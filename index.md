@@ -56,7 +56,7 @@ Technologies utilisées :
 - Nextcloud
 - Vaultwarden
 
-> [Voir la documentation complète sur le WIKI](projets/besafe.md)
+> [Voir la documentation complète sur le WIKI](https://ilangaussin.github.io/BESAFE/)
 
 ---
 
