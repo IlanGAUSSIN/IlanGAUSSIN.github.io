@@ -27,73 +27,49 @@ Je m’intéresse particulièrement à la **conception d’architectures robuste
 
 ## 🛠️ Domaines techniques
 
-### Systèmes & services d’infrastructure
-- Windows Server
-- Linux
-- Active Directory
-- DNS / DHCP
-- PKI / AD CS
-- RADIUS
+**Systèmes**
 
-### Virtualisation
-- VMware ESXi
-- VMware vCenter
+Windows Server • Linux • Active Directory • DNS • DHCP • PKI
 
-### Réseaux & sécurité
-- Cisco
-- Meraki
-- Stormshield
-- Fortinet
-- OPNsense
+**Virtualisation**
+
+VMware ESXi • vCenter
+
+**Réseau & sécurité**
+
+Cisco • Meraki • Stormshield • Fortinet • OPNsense
+
+**Supervision & sauvegarde**
+
+Centreon • Veeam
+---
+
+## Projet principal
+
+### BESAFE
+
+BESAFE est un **laboratoire d’infrastructure pédagogique** visant à reproduire une **architecture IT d’entreprise complète**.
+
+Le projet est réalisé en **équipe de 4 personnes** autour d’une **baie physique dédiée**, comprenant notamment :
+
+- 2 serveurs **Dell PowerEdge R630**
+- 1 serveur **Dell PowerEdge R730** utilisé comme baie de stockage
+- 1 pare-feu **Stormshield SN210**
+- 2 **switchs d’infrastructure**
+- un environnement de virtualisation **VMware**
+
+L’objectif est de concevoir et exploiter une **infrastructure réaliste** intégrant :
+
+- virtualisation des services
 - segmentation réseau
-- VPN
-- administration sécurisée
-
-### Supervision & sauvegarde
-- Centreon
-- Veeam Backup
-- supervision d’infrastructure
+- services d’infrastructure (AD, DNS, DHCP, PKI)
+- supervision
+- sauvegarde
 - documentation d’exploitation
 
----
+Ce laboratoire permet d’expérimenter des **architectures proches de celles rencontrées en entreprise**, tout en documentant les procédures d’installation et d’administration.
 
-## 🚀 Projet mis en avant
-
-## BESAFE
-
-**BESAFE** est un projet de documentation et d’architecture technique autour d’une infrastructure simulant un environnement d’entreprise complet.
-
-Ce projet regroupe notamment :
-
-- la virtualisation de l’infrastructure
-- les services systèmes (AD, DNS, DHCP, PKI)
-- les équipements réseau et sécurité
-- la supervision
-- la sauvegarde
-- les procédures d’installation et d’exploitation
-
-Technologies mises en œuvre :
-
-- VMware vSphere
-- Active Directory
-- Stormshield
-- Centreon
-- Veeam
-- Nextcloud
-- Vaultwarden
-
-> 🔗 [Accéder à la documentation complète BESAFE](https://ilangaussin.github.io/BESAFE/)
-
----
-
-## 📚 Objectif du site
-
-Ce site me permet de centraliser :
-
-- mes projets techniques
-- ma documentation
-- mes expérimentations
-- ma progression sur des sujets liés à l’infrastructure et à la sécurité
+> 📘 [Accéder à la documentation complète BESAFE](https://ilangaussin.github.io/BESAFE/)
 
 ---
 
@@ -101,4 +77,3 @@ Ce site me permet de centraliser :
 
 - 📧 Email : ilangaussin.pro@gmail.com
 - 🐙 GitHub : [github.com/IlanGAUSSIN](https://github.com/IlanGAUSSIN)
-- 📘 Documentation BESAFE : [ilangaussin.github.io/BESAFE](https://ilangaussin.github.io/BESAFE/)
