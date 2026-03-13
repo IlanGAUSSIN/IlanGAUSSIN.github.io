@@ -1,9 +1,4 @@
 title: "GAUSSIN Ilan"
 description: "Administrateur systèmes & réseaux — Infrastructure • Sécurité • Virtualisation"
 theme: jekyll-theme-cayman
-sass:
-  style: compressed
-plugins:
-include:
-  - css/style.css
 markdown: kramdown
