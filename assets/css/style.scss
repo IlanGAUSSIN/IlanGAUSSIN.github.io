@@ -3,18 +3,59 @@
 
 @import "jekyll-theme-cayman";
 
+/* =========================
+   HEADER
+========================= */
+
 /* réduire la hauteur du bandeau */
 .page-header {
-  padding: 40px 15px;
+  padding: 30px 10px;
 }
 
-/* titre principal */
+/* nom */
 .project-name {
-  font-size: 2.5rem;
+  font-size: 2.4rem;
 }
 
-/* sous-titre */
+/* sous titre */
 .project-tagline {
-  font-size: 1.2rem;
+  font-size: 1.15rem;
   opacity: 0.9;
+}
+
+
+/* =========================
+   CONTENU
+========================= */
+
+/* taille texte général */
+.main-content {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* titres principaux */
+.main-content h1 {
+  font-size: 1.9rem;
+}
+
+/* titres sections */
+.main-content h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+/* sous sections */
+.main-content h3 {
+  font-size: 1.2rem;
+}
+
+/* paragraphes */
+.main-content p {
+  margin-bottom: 1rem;
+}
+
+/* listes */
+.main-content li {
+  margin-bottom: 0.4rem;
 }
