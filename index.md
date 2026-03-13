@@ -42,6 +42,7 @@ Cisco • Meraki • Stormshield • Fortinet • OPNsense
 **Supervision & sauvegarde**
 
 Centreon • Veeam
+
 ---
 
 ## Projet principal
