@@ -3,25 +3,15 @@ layout: default
 title: Ilan Gaussin
 ---
 
-# 👋 Bonjour, moi c'est Ilan
+# 👋 Bonjour, moi c’est Ilan
 
-Administrateur **systèmes & réseaux** orienté **infrastructure**, **virtualisation**, **réseaux** et **sécurité**.
+Je suis **administrateur systèmes & réseaux en alternance depuis 3 ans**, avec un intérêt particulier pour les **infrastructures IT, la virtualisation, les réseaux et la sécurité**.
 
-Je conçois, documente et fais évoluer des environnements techniques mêlant **systèmes**, **services d’infrastructure**, **segmentation réseau**, **supervision** et **bonnes pratiques de sécurité**.
+Au quotidien, je travaille sur des environnements mêlant **systèmes, virtualisation, équipements réseau et supervision**, où je participe à l’administration et à l’évolution des infrastructures.
 
----
+Je développe également des **projets techniques personnels** afin de mieux comprendre certaines architectures et technologies utilisées en entreprise.
 
-## 🎯 Profil
-
-Actuellement en alternance, j’évolue sur des environnements d’entreprise où se croisent :
-
-- l’administration systèmes
-- la virtualisation
-- les réseaux et équipements de sécurité
-- la supervision et la continuité de service
-- la documentation technique et l’amélioration continue
-
-Je m’intéresse particulièrement à la **conception d’architectures robustes**, à la **structuration des environnements IT** et à la **mise en place de solutions cohérentes, sécurisées et maintenables**.
+C’est notamment le cas du laboratoire **BESAFE**, un environnement d’infrastructure que je documente sur ce site.
 
 ---
 
