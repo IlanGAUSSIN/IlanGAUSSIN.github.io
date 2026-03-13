@@ -1,11 +1,11 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-cayman";
 
 /* réduire la hauteur du bandeau */
 .page-header {
-  padding: 60px 20px;
+  padding: 40px 15px;
 }
 
 /* titre principal */
