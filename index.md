@@ -5,48 +5,74 @@ title: Ilan Gaussin
 
 # 👋 Bonjour, moi c'est Ilan
 
-Administrateur **systèmes & réseaux** spécialisé dans les **infrastructures IT**, la **sécurité** et la **virtualisation**.
+Administrateur **systèmes & réseaux** orienté **infrastructure**, **virtualisation**, **réseaux** et **sécurité**.
 
-Je m'intéresse particulièrement à :
+Je conçois, documente et fais évoluer des environnements techniques mêlant **systèmes**, **services d’infrastructure**, **segmentation réseau**, **supervision** et **bonnes pratiques de sécurité**.
 
-- l’architecture d’infrastructure
+---
+
+## 🎯 Profil
+
+Actuellement en alternance, j’évolue sur des environnements d’entreprise où se croisent :
+
+- l’administration systèmes
 - la virtualisation
-- la cybersécurité
-- la supervision
-- l'amélioration continue des environnements IT
+- les réseaux et équipements de sécurité
+- la supervision et la continuité de service
+- la documentation technique et l’amélioration continue
+
+Je m’intéresse particulièrement à la **conception d’architectures robustes**, à la **structuration des environnements IT** et à la **mise en place de solutions cohérentes, sécurisées et maintenables**.
 
 ---
 
-# 🧑‍💻 À propos
+## 🛠️ Domaines techniques
 
-Actuellement administrateur systèmes et réseaux en alternance, je travaille sur des environnements d'infrastructure mêlant **virtualisation, réseau, sécurité et supervision**.
+### Systèmes & services d’infrastructure
+- Windows Server
+- Linux
+- Active Directory
+- DNS / DHCP
+- PKI / AD CS
+- RADIUS
 
-Je développe également des **projets personnels et pédagogiques** afin d'explorer différentes architectures et technologies utilisées dans les infrastructures d'entreprise.
+### Virtualisation
+- VMware ESXi
+- VMware vCenter
 
-Ce site me permet de partager :
+### Réseaux & sécurité
+- Cisco
+- Meraki
+- Stormshield
+- Fortinet
+- OPNsense
+- segmentation réseau
+- VPN
+- administration sécurisée
 
-- mes projets
-- mes expérimentations
-- ma documentation technique
+### Supervision & sauvegarde
+- Centreon
+- Veeam Backup
+- supervision d’infrastructure
+- documentation d’exploitation
 
 ---
 
-# 🛠️ Compétences techniques
-
-- Systèmes (Windows, Linux, AD DS, DNS, DHCP, PKI, RADIUS)
-- Virtualisation (Esxi, vCenter)
-- Réseau & sécurité (Cisco, Meraki, Stormshield, Fortinet, OPNsense)
-- Supervision & sauvegarde (Veeam)
-
----
-
-# 📚 Projets
+## 🚀 Projet mis en avant
 
 ## BESAFE
 
-Infrastructure pédagogique simulant une **architecture d’entreprise sécurisée**.
+**BESAFE** est un projet de documentation et d’architecture technique autour d’une infrastructure simulant un environnement d’entreprise complet.
 
-Technologies utilisées :
+Ce projet regroupe notamment :
+
+- la virtualisation de l’infrastructure
+- les services systèmes (AD, DNS, DHCP, PKI)
+- les équipements réseau et sécurité
+- la supervision
+- la sauvegarde
+- les procédures d’installation et d’exploitation
+
+Technologies mises en œuvre :
 
 - VMware vSphere
 - Active Directory
@@ -56,11 +82,23 @@ Technologies utilisées :
 - Nextcloud
 - Vaultwarden
 
-> [Voir la documentation complète sur le WIKI](https://ilangaussin.github.io/BESAFE/)
+> 🔗 [Accéder à la documentation complète BESAFE](https://ilangaussin.github.io/BESAFE/)
 
 ---
 
-# 📬 Contact
+## 📚 Objectif du site
 
-📧 Email : ilangaussin.pro@gmail.com  
-🐙 GitHub : https://github.com/IlanGAUSSIN
+Ce site me permet de centraliser :
+
+- mes projets techniques
+- ma documentation
+- mes expérimentations
+- ma progression sur des sujets liés à l’infrastructure et à la sécurité
+
+---
+
+## 📬 Contact
+
+- 📧 Email : ilangaussin.pro@gmail.com
+- 🐙 GitHub : [github.com/IlanGAUSSIN](https://github.com/IlanGAUSSIN)
+- 📘 Documentation BESAFE : [ilangaussin.github.io/BESAFE](https://ilangaussin.github.io/BESAFE/)
